@@ -24,4 +24,6 @@ body {
 {
     font-weight:bold;
     color:#283747;
+    display: none;
+    text-align: center;
 }
