@@ -20,3 +20,8 @@ body {
     height: 200px;
 }
 
+#head1
+{
+    font-weight:bold;
+    color:#283747;
+}
